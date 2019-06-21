@@ -1,6 +1,7 @@
 ---
 title: How to build the blog
 categories: Other
+tags: Test
 ---
 I use [Hexo](https://hexo.io/) for my blog! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info.
 

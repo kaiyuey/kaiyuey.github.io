@@ -82,3 +82,9 @@ deploy:
   repo: https://github.com/kaiyuey/kaiyuey.github.io.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: master #published
   message:   #leave this blank
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000

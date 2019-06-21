@@ -2,7 +2,7 @@
 title: AmericanMedicalSystem
 date: 2018-02-18 18:39:06
 categories: Other
-tags:
+tags: medical
 ---
 自工作来，经历了各种奇怪的小疾病，运动受伤，领略了美国医疗的坑爹程度，写下本文进行一个小总结，祈祷之后无须用经历换来更新
 
